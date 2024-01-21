@@ -16,6 +16,7 @@ Before running the script, you need to install the required Python libraries and
 
 ```bash
 pip install yt-dlp pyperclip pywin32
+```
 
 ## Usage
 
